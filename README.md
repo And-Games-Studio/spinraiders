@@ -20,4 +20,4 @@ that these still hold, or change the pages:
 - server logs are kept at most 14 days;
 - backups are encrypted and overwritten within 5 weeks (7 daily + 4 weekly);
 - the store build really has AdMob, Unity IAP, Firebase and GameAnalytics (or the pages drop what it doesn't have);
-- the age (13+) matches the rating the game gets (simulated gambling may raise it).
+- the age (18+, since 2026-11-16: the IARC ratings gave PEGI 18 for the simulated casino slot) matches the rating.
